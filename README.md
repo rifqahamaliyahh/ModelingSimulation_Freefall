@@ -1,1 +1,2 @@
 # ModelingSimulation_Freefall
+Modeling the free fall motion of a meteor falling to Earth from an initial height of 10,000 meters. The total time required from the moment the meteor is released until it reaches the Earth's surface will be calculated with a time interval of 1, and the position/height of the meteor at the 5th second will be determined using both analytical and numerical approaches with python.
